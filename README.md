@@ -3,6 +3,7 @@
 [The Bug Hunter’s Methodology v4](https://docs.google.com/presentation/d/1MWWXXRvvesWL8V-GiwGssvg4iDM58_RMeI_SZ65VXwQ/)
 
 
+
 # 2READ
 [@Th3G3nt3lman Shares His Recon Methodology and How He Consistently Collects $15,000 Bounties!](https://www.youtube.com/watch?v=X1fwTcfp_so)
 
@@ -36,6 +37,42 @@
 [gitrob](https://github.com/michenriksen/gitrob)
 
 [repo-supervisor](https://github.com/auth0/repo-supervisor)
+
+
+# Find IPs behind IPS/IDS/WAF
+
+**Passive:**
+
+ - DNS Records 
+ - CIDR
+ - SSL Certs
+ - Favicon Hash
+ - Shodan / Censys / etc.
+
+		
+**Active:**
+
+ - XML/RPC pingback
+ - Vhosts
+ - Google Analytics
+ - Recaptcha Identifier Keys
+ - Custom Headers
+    
+[Finding The Origin IP Behind CDNs](https://medium.com/bugbountywriteup/finding-the-origin-ip-behind-cdns-37cd18d5275)
+
+[Finding The Real Origin IPs Hiding Behind CloudFlare or Tor](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/)
+
+[Find the IP address of your website’s visitors](https://medium.com/@ipapi/how-to-get-the-client-ip-address-5d30b39bb1d0)
+
+
+# FOCA
+[Website Footprinting: Gather Metadata & Hidden files using FOCA](https://www.youtube.com/watch?v=yF6YiTXYOfI)
+
+[Сбор метаданных с сайта.](https://www.youtube.com/watch?v=W05qCZe7rvc)
+
+[Tactical Fingerprinting Using Metadata Hidden Info and Lost Data with FOCA](https://www.youtube.com/watch?v=WiblI9fiQQQ)
+
+[Using FOCA for OSINT Document Metadata Analysis](https://wondersmithrae.medium.com/using-foca-for-osint-document-metadata-analysis-6745c8d709fa)
 
 
 # Amass 
