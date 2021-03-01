@@ -4,6 +4,8 @@
 
 
 # 2READ
+[@Th3G3nt3lman Shares His Recon Methodology and How He Consistently Collects $15,000 Bounties!](https://www.youtube.com/watch?v=X1fwTcfp_so)
+
 [Bug Bounty Hunting Tips](https://mavericknerd.github.io/knowledgebase/BugBountyRecon/)
 
 [What tools I use for my recon during](https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d)
@@ -17,6 +19,8 @@
 
 # GitHub
 [GitHub Recon - It’s Really Deep](https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f)
+
+[GitHub Gist Recon](https://secapps.com/tutorials/github-gist-recon/)
 
 [GitHub Recon and Sensitive Data Exposure](https://www.youtube.com/watch?v=l0YsEk_59fQ)
 
