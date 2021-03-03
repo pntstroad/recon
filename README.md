@@ -74,6 +74,12 @@
 
 [Using FOCA for OSINT Document Metadata Analysis](https://wondersmithrae.medium.com/using-foca-for-osint-document-metadata-analysis-6745c8d709fa)
 
+# WhatWeb
+
+https://github.com/urbanadventurer/WhatWeb/
+
+https://github.com/rverton/webanalyze
+
 
 # Amass 
 [Advanced Recon with OWASP Amass (YouTube)](https://www.youtube.com/watch?v=ES6OKjgW36w)
